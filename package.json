@@ -1,0 +1,27 @@
+{
+  "name": "@alexmarqs/commitlint-config",
+  "version": "0.0.1",
+  "description": "Personal shareable commitlint config",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Alexandre Marques",
+  "license": "MIT",
+  "keywords": [
+    "commitlint",
+    "commitlint-config",
+    "config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexmarqs/commitlint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexmarqs/commitlint-config/issues"
+  },
+  "homepage": "https://github.com/alexmarqs/commitlint-config#readme",
+  "engines": {
+    "node": ">=v10"
+  }
+}
