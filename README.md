@@ -2,6 +2,9 @@
 
 Shareable [`commitlint`](https://github.com/conventional-changelog/commitlint) config used in personal projects.
 
+[![npm version](https://badge.fury.io/js/%40alexmarqs%2Fcommitlint-config.svg)](https://badge.fury.io/js/%40alexmarqs%2Fcommitlint-config)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 ## How to install
 
 ```sh
