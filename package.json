@@ -1,6 +1,6 @@
 {
   "name": "@alexmarqs/commitlint-config",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Personal shareable commitlint config",
   "main": "index.js",
   "publishConfig": {
